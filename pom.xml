@@ -8,6 +8,12 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>cyuoj-backend-common</module>
+        <module>cyuoj-backend-model</module>
+        <module>cyuoj-backend-gateway</module>
+        <module>cyuoj-backend-service-client</module>
+        <module>cyuoj-backend-question-service</module>
+        <module>cyuoj-backend-user-service</module>
+        <module>cyuoj-backend-judge-service</module>
     </modules>
     <name>cyu-backend-microservice</name>
     <description>Online-Judge项目</description>

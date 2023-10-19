@@ -15,6 +15,9 @@ import reactor.core.publisher.Mono;
 
 import java.nio.charset.StandardCharsets;
 
+/**
+ * 全局过滤器(调用内部方法显示无权限)
+ */
 @Component
 public class GlobalAuthFilter implements GlobalFilter, Ordered {
 

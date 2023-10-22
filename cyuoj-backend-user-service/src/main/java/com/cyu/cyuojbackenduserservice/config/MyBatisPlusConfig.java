@@ -1,4 +1,4 @@
-package com.cyu.cyuojbackendjudgeservice.config;
+package com.cyu.cyuojbackenduserservice.config;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
  */
 
 @Configuration
-@MapperScan("com.cyu.cyuojbackendjudgeservice")
+@MapperScan("com.cyu.cyuojbackenduserservice.mapper")
 public class MyBatisPlusConfig {
 
     /**

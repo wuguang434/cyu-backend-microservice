@@ -158,7 +158,7 @@
 
 ### 做题页面
 
-![做题页面](./img/img.png)
+![做题页面](./img/answerQuestion.png)
 
 ### 用户登录注册
 
@@ -184,7 +184,7 @@
 
 ### 提交题目展示
 
-![提交题目展示](./img/README-1694249803014.png)
+![提交题目展示](./img/submitAnswer.png)
 
 ---
 

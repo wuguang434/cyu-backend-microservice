@@ -1,10 +1,10 @@
-package com.example.cyuojbackendquestionservice;
+package com.cyu.cyuojbackendjudgeservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CyuojBackendQuestionServiceApplicationTests {
+class CyuojBackendJudgeServiceApplicationTests {
 
     @Test
     void contextLoads() {
